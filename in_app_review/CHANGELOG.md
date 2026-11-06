@@ -1,4 +1,8 @@
-## 2.0.12+1\n\n- PurpleSoft fork: support AGP 9 built-in Kotlin.\n\n# [2.0.12]
+## 2.0.12+2
+
+- PurpleSoft fork: support AGP 9 built-in Kotlin.
+
+# [2.0.12]
 
 - Fix an Android NullPointerException that sometimes occurred when apps were backgrounded.
 
